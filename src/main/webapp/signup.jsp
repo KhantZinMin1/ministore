@@ -176,7 +176,7 @@ nav .ministore {
 									<div class="form-outline form-white mb-4">
 										<input type="email" id="email" name="email"
 											class="form-control form-control-lg" /> <label
-											class="form-label" for="email">Firstname</label>
+											class="form-label" for="email">Email</label>
 									</div>
 
 									<div class="form-outline form-white mb-4">
